@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **CarlossViniciuss/CarlossViniciuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Carlos Vinicius :milky_way:
+
+### Hellooo! 👋 Welcome to my profile:
+
+My name is Carlos and ...:
+
+-😄 I really like to learn
+-✨ Currently studying JavaScript and Jquery
+-👽 And I also like to travel
