@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-vinicius-95745a1a4)](https://www.linkedin.com/in/carlos-vinicius-95745a1a4)
 [![Gmail Badge](https://img.shields.io/badge/-carlosvinicius.index@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvinicius.index@gmail.com)](mailto:carlosvinicius.index@gmail.com)
 
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução como programador.:milky_way:
+### Seja bem vindo ao meu repositório! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução como programador.:milky_way:
 
 <details>
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
