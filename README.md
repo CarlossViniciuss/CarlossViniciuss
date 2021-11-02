@@ -12,7 +12,7 @@
 Cursando Análise e desenvovimento de sistemas estou em busca de me tornar um desenvolvedor fullstak.
 </details>
 
-### 💻 Estudando atualmente
+### 💻 Estudando atualmente 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -20,7 +20,7 @@ Cursando Análise e desenvovimento de sistemas estou em busca de me tornar um de
 
 
 
-### 👀 Estou interessado
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estou interessado
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
 
